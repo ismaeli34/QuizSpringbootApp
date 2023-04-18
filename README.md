@@ -21,11 +21,11 @@ This quiz application is a Angular project designed to create and administer qui
 ![Screenshot 2023-04-14 at 11 53 26 AM](https://user-images.githubusercontent.com/17925504/232012139-efb9907c-ce91-4b03-9e78-9b70123b6d73.png)
 ## Show Results  
 ![Screenshot 2023-04-14 at 11 53 52 AM](https://user-images.githubusercontent.com/17925504/232012153-3bddb01c-d593-42be-9bec-1346cc73af0b.png)
-Frontend and Backend Communication
+## Frontend and Backend Communication
 ![process](https://user-images.githubusercontent.com/17925504/232762141-c72f8b9b-a8cb-47fa-8b41-a6743c8fcd60.png)
-Frontend 
+## Frontend 
 ![frontend](https://user-images.githubusercontent.com/17925504/232762240-1d6eb99f-34b1-4bf2-a766-a4b9829a1070.png)
-Backend
+## Backend
 ![Blogapplication](https://user-images.githubusercontent.com/17925504/232762289-8130eb49-9e5e-431a-a66e-51cd59de93da.jpg)
 
 
