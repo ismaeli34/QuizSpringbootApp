@@ -20,6 +20,12 @@ This quiz application is a Angular project designed to create and administer qui
   2. Execute command git clone https://github.com/ismaeli34/quiz-springboot-app
   3. Execute command cd quiz-springboot-app
   4. Configure datasource in main/resources/application.properties
+ 
+ ```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
   
 ## Dashboard Screen
   
