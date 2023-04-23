@@ -7,7 +7,14 @@ This quiz application is a Angular project designed to create and administer qui
 
 ## Used Tools
 
-Markup : * Bullet list
+Java 17
+Spring Boot v2.5.5
+Maven v3.8.2
+MySQL Community Server v8.0.27
+Spring Data JPA
+Spring Web MVC
+Spring Security with JWT
+Lombok
 
 
 
