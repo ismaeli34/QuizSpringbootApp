@@ -7,16 +7,9 @@ This quiz application is a Angular project designed to create and administer qui
 
 ## Used Tools
 
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
+* Java 17
 
-~~~
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+
 
 
 
