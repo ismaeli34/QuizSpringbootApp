@@ -15,7 +15,11 @@ This quiz application is a Angular project designed to create and administer qui
   *  Spring Security with JWT
   *  Lombok
 
-
+## How to Run
+  1. Install MySQL
+  2. Execute command git clone https://github.com/ismaeli34/quiz-springboot-app
+  3. Execute command cd quiz-springboot-app
+  4. Configure datasource in main/resources/application.properties
   
 ## Dashboard Screen
   
