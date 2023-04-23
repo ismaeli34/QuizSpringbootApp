@@ -7,6 +7,16 @@ This quiz application is a Angular project designed to create and administer qui
 
 ## Used tools
   1. A numbered list
+  2.  Java 17
+  3.  Spring Boot v2.5.5
+  4.  Maven v3.8.2
+  5.  MySQL Community Server v8.0.27
+  6.  Spring Data JPA
+  7.  Spring Web MVC
+  8.  Spring Security with JWT
+  9.  Lombok
+ 10.  JUnit 5
+ 11.  Mockito
 
   
 ## Dashboard Screen
