@@ -48,6 +48,12 @@ This quiz application is a Angular project designed to create and administer qui
 ## Frontend
 ![Blogapplication](https://user-images.githubusercontent.com/17925504/232762289-8130eb49-9e5e-431a-a66e-51cd59de93da.jpg)
 
+## To explore documentation, 
+run the application and go to http://localhost:9090/swagger-ui.html
+
+
+
+![Screenshot 2023-05-09 at 6 23 44 PM](https://github.com/ismaeli34/quiz-springboot-app/assets/17925504/69566061-be0b-4a6e-b07c-f421d7a52fdf)![Screenshot 2023-05-09 at 6 24 12 PM](https://github.com/ismaeli34/quiz-springboot-app/assets/17925504/d0e64569-7910-4ac3-bdf5-ad8a25474428)
 
 
 
