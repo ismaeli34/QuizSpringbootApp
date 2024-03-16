@@ -3,7 +3,6 @@
 This quiz application is a Angular project designed to create and administer quizzes or tests. These applications can be used for educational purposes, such as testing students' knowledge or evaluating their progress, or for entertainment, such as trivia games. Quiz applications typically provide a user interface for creating and managing quizzes, and a platform for delivering them to users. They may include features such as multiple choice questions, true/false questions, open-ended questions, and the ability to save and review previous results. This application can be web-based, mobile-based, or desktop-based, and can be used for a variety of purposes, including education, training, marketing, and research.
 
 ## Output
-
 ![quizapp_crop](https://github.com/ismaeli34/quiz-springboot-app/assets/17925504/cc879e29-08ad-4298-9818-d478be717d7f)
 
 
